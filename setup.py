@@ -3,7 +3,7 @@ from typing import List
 
 
 #Declaring variables for setup functions
-PROJECT_NAME="Housing-predictor"
+PROJECT_NAME="housing-predictor"
 VERSION="0.0.1"
 AUTHOR="Vijay Pilli"
 DESCRIPTION="This is Housing Prediction Regression Problem"
