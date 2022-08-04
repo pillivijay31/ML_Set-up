@@ -98,6 +98,7 @@ To stop docker container
 docker stop <container_id>
 ```
 
+> We donot need to install from requirements.txt file, we can directly install from the below code
 
 ```
 python setup.py install
