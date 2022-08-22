@@ -103,3 +103,12 @@ docker stop <container_id>
 ```
 python setup.py install
 ```
+
+Installing ipykernel
+```
+pip install ipykernel
+```
+
+Installing PyYAML file
+```
+pip install yaml
